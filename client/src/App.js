@@ -37,6 +37,7 @@ import UserEditScreen from "./screens/UserEditScreen";
 import MapScreen from "./screens/MapScreen";
 import ForgetPasswordScreen from "./screens/ForgetPasswordScreen";
 import ResetPasswordScreen from "./screens/ResetPasswordScreen";
+import WhatsApp from "./components/WhatsApp";
 
 function App() {
   const { state, dispatch: ctxDispatch } = useContext(Store);
@@ -277,6 +278,7 @@ function App() {
             </Routes>
           </Container>
         </main>
+        <WhatsApp />
         <section className="bfooter">
           <p style={{ color: "#063263", fontWeight: "520" }}>
             Malcop Exporting Company specializes in exporting fresh produce,

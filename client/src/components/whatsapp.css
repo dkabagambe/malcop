@@ -1,0 +1,96 @@
+/* for desktop */
+.whatsapp_float {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 70px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 15px;
+  border: none;
+  z-index: 100;
+}
+.whatsapp {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 70px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 15px;
+  z-index: 100;
+  border: none;
+}
+.whatsapp:hover {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 70px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 15px;
+  z-index: 100;
+  border: none;
+  cursor: pointer;
+}
+.whatsapp_float:hover {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 40px;
+  right: 70px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 15px;
+  border: none;
+  z-index: 100;
+}
+
+/* for mobile */
+@media screen and (max-width: 767px) {
+  .whatsapp {
+    width: 40px;
+    height: 40px;
+    bottom: 50px;
+    right: 30px;
+    font-size: 15px;
+    border: none;
+    text-align: center;
+  }
+  .whatsapp:hover {
+    width: 40px;
+    height: 40px;
+    bottom: 50px;
+    right: 30px;
+    font-size: 15px;
+    border: none;
+  }
+
+  .whatsapp_float {
+    width: 40px;
+    height: 40px;
+    bottom: 50px;
+    right: 30px;
+    font-size: 15px;
+    border: none;
+  }
+  .whatsapp_float:hover {
+    width: 40px;
+    height: 40px;
+    bottom: 50px;
+    right: 30px;
+    font-size: 15px;
+    border: none;
+  }
+}
