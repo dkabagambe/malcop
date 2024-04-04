@@ -48,7 +48,7 @@ const Home = () => {
       </Helmet>
       <h1 className="move-h1">malcop exporting company</h1>
       {/* <SimpleSlider /> */}
-      <h1 style={{ color: "#66C859" }}>Best Selling Products</h1>
+      <h1 style={{ color: "blue" }}>Best Selling Products</h1>
       <div className="products">
         {loading ? (
           <LoadingBox />

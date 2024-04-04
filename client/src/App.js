@@ -289,8 +289,8 @@ function App() {
           </p>
           <p>
             For further assistance,feel free to email us at:
-            <a href="mailto:princeumardachairman@gmail.com">
-              princeumardachairman@gmail.com
+            <a href="mailto:malcopexportingcompany@gmail.com">
+              malcopexportingcompany@gmail.com
             </a>
           </p>
         </section>
