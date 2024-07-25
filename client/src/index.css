@@ -229,7 +229,7 @@ button.thumbnail {
 
 .bfooter p {
   margin: 1rem 5px;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-family: "Adobe Garamond Pro", serif !important;
   color: #000;
 }
@@ -259,8 +259,9 @@ button.thumbnail {
   width: 99%;
   color: #04fa04;
   padding: 20px;
-  font-weight: bolder;
+  font-weight: 900;
   font-family: "Iowan Old Style", serif !important;
+  font-size: 2.5rem;
 }
 
 @keyframes moveRightToLeft {
