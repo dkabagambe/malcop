@@ -287,6 +287,10 @@ function App() {
           </p>
           <p>
             For orders or inquiries, please contact us at:
+            <a href="tel:+254703272088">+254-703-272-088</a>
+          </p>
+          <p>
+            For orders or inquiries, please contact us at:
             <a href="tel:+254701903029">+254-701-903-029</a>
           </p>
           <p>
