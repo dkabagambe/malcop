@@ -7,7 +7,7 @@ const WhatsApp = () => {
   return (
     <div>
       <ReactWhatsapp
-        number="+254 703 272088"
+        number="+254701903029"
         message="Hey i got your number from malcop exporting company
         !!!"
         className="whatsapp_float"

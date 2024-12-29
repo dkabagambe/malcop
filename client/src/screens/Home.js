@@ -44,9 +44,11 @@ const Home = () => {
   return (
     <div>
       <Helmet>
-        <title>malcop exporting company</title>
+        <title>Shelter Services International Trading Co.Ltd </title>
       </Helmet>
-      <h1 className="move-h1">malcop exporting company</h1>
+      <h1 className="move-h1">
+        Shelter Services International Trading Co.Ltd{" "}
+      </h1>
       {/* <SimpleSlider /> */}
       <h1 style={{ color: "blue" }}>Best Selling Products</h1>
       <div className="products">
