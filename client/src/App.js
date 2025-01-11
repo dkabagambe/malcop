@@ -284,6 +284,15 @@ function App() {
             malcop exporting company specializes in exporting fresh produce,
             including meat, mangoes, avocados, and various types of vegetables
             sourced directly from our farms.
+            <br />
+            We offer a diverse range of products, including fresh meat,
+            succulent fruits such as avocados, pawpaw, mangoes, oranges, passion
+            fruits, pineapples, watermelon, and yellow bananas, as well as crisp
+            vegetables like tomatoes and matooke, and beef and fish. With
+            rigorous quality control measures, sustainable farming practices,
+            and a customer-centric approach, we cater to the evolving demands of
+            international markets, providing tailored solutions for wholesalers,
+            retailers, and food service providers.
           </p>
 
           <p>
