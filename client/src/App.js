@@ -281,9 +281,9 @@ function App() {
         <WhatsApp />
         <section className="bfooter">
           <p style={{ color: "#063263", fontWeight: "520" }}>
-            Shelter Services International Trading Co.Ltd specializes in
-            exporting fresh produce, including meat, mangoes, avocados, and
-            various types of vegetables sourced directly from our farms.
+            malcop exporting company specializes in exporting fresh produce,
+            including meat, mangoes, avocados, and various types of vegetables
+            sourced directly from our farms.
           </p>
 
           <p>
@@ -301,10 +301,7 @@ function App() {
         <footer>
           <div className="text-center">
             <span className="copy"> &copy; </span>
-            <span className="word">
-              {" "}
-              Shelter Services International Trading Co.Ltd{" "}
-            </span>
+            <span className="word"> malcop exporting company </span>
             <span className="year">{currentYear} </span>
           </div>
         </footer>
