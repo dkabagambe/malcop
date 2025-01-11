@@ -288,7 +288,8 @@ function App() {
 
           <p>
             For orders or inquiries, please contact us at:
-            <a href="tel:+254701903029">+254-701-903-029</a>
+            <a href="tel:+254701903029">+254-701-903-029</a>or
+            <a href="tel:+256758626664">+256-758-626-664</a>
           </p>
           <p>
             For further assistance,feel free to email us at:
